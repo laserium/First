@@ -43,4 +43,3 @@ cap.release()
 output_video.release()
 
 print("영상에서 직선 검출이 완료되었고, 결과를 'output_video.mp4'로 저장했습니다.")
-
